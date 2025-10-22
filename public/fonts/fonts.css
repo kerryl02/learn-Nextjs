@@ -1,0 +1,64 @@
+
+
+/*KALLISTO*/
+
+@font-face {
+    font-family: 'Kallisto';
+    src: url('./Kallisto-Bold-Italic.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Kallisto';
+    src: url('./Kallisto-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Kallisto';
+    src: url('./Kallisto-Heavy-Italic.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Kallisto';
+    src: url('./Kallisto-Heavy.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Kallisto';
+    src: url('./Kallisto-Light.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Kallisto';
+    src: url('./Kallisto-Light-Italic.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Kallisto';
+    src: url('./Kallisto-Medium-Italic.otf') format('opentype');
+    font-weight: medium;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Kallisto';
+    src: url('./Kallisto-Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Kallisto';
+    src: url('./Kallisto-Thin-Italic.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Kallisto';
+    src: url('./Kallisto-Thin.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
